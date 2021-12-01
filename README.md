@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codenewblet
+- 👋 Hi, I’m @codenewblet, which is pronounced "code nooblet"
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning js / react
 - 💞️ I’m looking to collaborate on anything that will help me learn
